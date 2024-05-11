@@ -1,3 +1,18 @@
+@import url("https://fonts.cdnfonts.com/css/octopus-game");
+
 #MainMenu {visibility: hidden}
 header {visibility: hidden}
 footer {visibility: hidden}
+
+.block-container {
+	padding-top: 0 !important;
+	background-color: #E60012;
+	text-align: center;
+	text-anchor: middle;
+	max-height: 200px;
+	}
+
+* {
+	font-family: "Octopus Game", sans-serif;
+	}
+
